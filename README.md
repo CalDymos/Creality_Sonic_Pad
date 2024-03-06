@@ -73,7 +73,7 @@ Using Linux subsystem under Windows 10 64-bit
 7.	Upgrade printer firmware via SD/TF card
    -	Create a new "ubuntu_sharing" on the computer disk
    -	Open VirtualBox--Settings--Shared Folders，Add a shared folder (tick auto mount)，Mount point type "/sharings"
-   -	Copy the klipper.bin file just generated to the sharings folder
+   -	Copy the klipper.bin file just generated (located in folder out) to the sharings folder
    -	Copy klipper.bin in the ubuntu_sharing folder of the computer disk to the TF/SD
 8.	Upgrade printer firmware via USB  
      (If the motherboard has no Bootloader and does not support SD card upgrades)
