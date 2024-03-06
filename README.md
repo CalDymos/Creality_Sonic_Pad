@@ -36,7 +36,7 @@ Using Linux subsystem under Windows 10 64-bit
    - click Finish
    -	Open Settings
      -	Under Settings ***General*** – Tab ***Advanced***
-       -	Change ***Shared clipboard*** to Bidirectional
+      	-	Change ***Shared clipboard*** to Bidirectional
       	- Change ***Drag'n'Drop*** to Bidirectional
      - Under Settings ***System*** - Tab ***Motherboard***
        - Adjust the boot order to ***Optical - Hard Disk - Floppy***
